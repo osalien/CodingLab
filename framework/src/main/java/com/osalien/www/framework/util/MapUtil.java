@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@ import java.util.Map;
  * <p>
  *  Map构建工具类
  * </p>
- * @author geekidea
+ * @author osalien
  * @date 2019-05-23
  **/
 public class MapUtil {

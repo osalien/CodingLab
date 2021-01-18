@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@ package com.osalien.www.config.constant;
 /**
  * 可排序查询参数对象
  *
- * @author geekidea
+ * @author osalien
  * @since 2019-08-08
  */
 public interface CacheKey {

@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -36,7 +36,7 @@ import javax.servlet.http.HttpServletResponse;
  * 图片等文件资源访问控制器
  * /api/resource 访问路径 用于区分 文件访问虚拟目录映射 /resource
  *
- * @author geekidea
+ * @author osalien
  * @date 2019/8/20
  * @since 1.2.1-RELEASE
  */

@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -25,7 +25,7 @@ import javax.servlet.http.HttpServletRequest;
  * 2.判断当前用户的浏览器
  * </code>
  *
- * @author geekidea
+ * @author osalien
  * @since 2018-11-08
  */
 public final class BrowserUtil {

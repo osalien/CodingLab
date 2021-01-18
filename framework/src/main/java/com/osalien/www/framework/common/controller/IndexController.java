@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -27,7 +27,7 @@ import org.springframework.web.bind.annotation.GetMapping;
  * 项目根路径提示信息
  * </p>
  *
- * @author geekidea
+ * @author osalien
  * @date 2018/11/12
  */
 @Slf4j

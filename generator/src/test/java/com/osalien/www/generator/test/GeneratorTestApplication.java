@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@ package com.osalien.www.generator.test;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author geekidea
+ * @author osalien
  * @date 2020/3/12
  **/
 @SpringBootApplication(scanBasePackages = "com.osalien.www.generator")

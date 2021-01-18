@@ -40,7 +40,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Shiro JWT授权过滤器
  *
- * @author geekidea
+ * @author osalien
  * @date 2019-09-27
  * @since 1.3.0.RELEASE
  **/

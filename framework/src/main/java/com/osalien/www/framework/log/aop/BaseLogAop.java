@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -82,7 +82,7 @@ import java.util.*;
  * 3. ThreadLocal线程绑定，方法执行结束时，同时打印请求和响应日志
  * </p>
  *
- * @author geekidea
+ * @author osalien
  * @date 2018-11-08
  */
 @Slf4j

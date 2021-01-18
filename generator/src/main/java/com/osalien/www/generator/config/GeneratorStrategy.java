@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -22,7 +22,7 @@ package com.osalien.www.generator.config;
  * SINGLE 生成单表操作代码
  * ALL 生成所有的代码
  *
- * @author geekidea
+ * @author osalien
  * @date 2020/3/13
  **/
 public enum GeneratorStrategy {

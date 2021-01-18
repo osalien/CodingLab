@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -25,7 +25,7 @@ import java.lang.annotation.*;
  * 操作日志注解
  * 记录：日志名称，日志类型，日志备注
  *
- * @author geekidea
+ * @author osalien
  * @date 2020/3/19
  **/
 @Target({ElementType.METHOD})

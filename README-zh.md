@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/geekidea/spring-boot-plus">
-   <img alt="spring-boot-plus logo" src="https://springboot.plus/img/logo.png">
+  <a href="https://github.com/osalien/CodingLab">
+   <img alt="Coding实验室" src="data:image/png;base64,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">
   </a>
 </p>
 <p align="center">
@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">  
-  <a href="https://github.com/geekidea/spring-boot-plus/">
-    <img alt="spring-boot-plus version" src="https://img.shields.io/badge/spring--boot--plus-2.0-blue">
-  </a>
+
   <a href="https://github.com/spring-projects/spring-boot">
     <img alt="spring boot version" src="https://img.shields.io/badge/spring%20boot-2.2.5.RELEASE-brightgreen">
   </a>
@@ -162,7 +160,7 @@ spring-boot-plus/generator/src/main/java/io/geekidea/springbootplus/generator/Sp
 /**
  * spring-boot-plus代码生成器入口类
  *
- * @author geekidea
+ * @author osalien
  * @date 2019-10-22
  **/
 @Component
@@ -180,7 +178,7 @@ public class SpringBootPlusGenerator {
                 .setMavenModuleName("work")
                 .setParentPackage("com.work")
                 .setModuleName("foobar")
-                .setAuthor("geekidea")
+                .setAuthor("osalien")
                 .setFileOverride(true);
 
         // 设置表信息
@@ -287,14 +285,14 @@ spring-boot-plus/generator/src/main/resources
 > SpringBootAdmin Server启动类，在admin模块中  [http://localhost:8000](http://localhost:8000)
 
 ```text
-spring-boot-plus/admin/src/main/java/io/geekidea/springbootplus/admin/SpringBootPlusAdminApplication
+spring-boot-plus/admin/src/main/java/io/osalien/springbootplus/admin/SpringBootPlusAdminApplication
 ```
 
 ```java
 /**
  * Spring Boot Admin Bootstrap Main Class
  *
- * @author geekidea
+ * @author osalien
  * @date 2020/3/20
  **/
 @Slf4j

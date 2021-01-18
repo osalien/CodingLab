@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@ import lombok.experimental.Accessors;
 
 /**
  * 生成的表信息配置
- * @author geekidea
+ * @author osalien
  * @date 2020/3/13
  **/
 @Data

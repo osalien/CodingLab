@@ -1,6 +1,6 @@
 #! /bin/shell
 
-# Copyright 2019-2029 geekidea(https://github.com/geekidea)
+# Copyright 2019-2029 osalien(https://github.com/osalien)
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@
 # 先下载按照脚本，多次执行该脚本，会覆盖以下下载的文件
 # 快速安装jdk/git/maven/redis/mysql
 #
-# author: geekidea
+# author: osalien
 # date: 2019-8-29
 #======================================================================
 

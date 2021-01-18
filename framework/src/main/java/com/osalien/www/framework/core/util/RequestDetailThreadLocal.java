@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@ import com.osalien.www.framework.core.bean.RequestDetail;
 /**
  * 记录请求详情信息到当前线程中，可在任何地方获取
  *
- * @author geekidea
+ * @author osalien
  * @date 2020/3/26
  **/
 public class RequestDetailThreadLocal {

@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -33,7 +33,7 @@ import java.util.List;
 /**
  * 文件下载工具类
  *
- * @author geekidea
+ * @author osalien
  * @date 2019/8/21
  * @since 1.2.1-RELEASE
  */

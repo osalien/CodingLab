@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -42,7 +42,7 @@ import java.util.List;
  * 部门 前端控制器
  * </pre>
  *
- * @author geekidea
+ * @author osalien
  * @since 2019-10-24
  */
 @Slf4j

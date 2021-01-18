@@ -24,7 +24,7 @@ import java.util.regex.Pattern;
 
 /**
  * 自定义手机号码验证注解实现类
- * @author geekidea
+ * @author osalien
  * @date 2018-11-08
  */
 public class PhoneValidator implements ConstraintValidator<Phone, String> {

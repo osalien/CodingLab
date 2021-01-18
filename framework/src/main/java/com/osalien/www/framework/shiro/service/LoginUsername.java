@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * 获取登录用户名称
  *
- * @author geekidea
+ * @author osalien
  * @date 2020/3/24
  **/
 public interface LoginUsername extends Serializable {

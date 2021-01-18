@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -26,7 +26,7 @@ import org.springframework.core.env.ConfigurableEnvironment;
  * 打印项目信息
  * </p>
  *
- * @author geekidea
+ * @author osalien
  * @date 2019-05-08
  **/
 @Slf4j
@@ -58,7 +58,7 @@ public class PrintApplicationInfo {
         tip.append("    scheduled：   任务调度模块\n");
         tip.append("    system：      系统管理模块\n");
 //        tip.append(" 6.FAQ：https://springboot.plus/faq\n");
-//        tip.append(" 7.如开发中遇到bug及问题，欢迎提交ISSUES：https://github.com/geekidea/coding-lab/issues\n");
+//        tip.append(" 7.如开发中遇到bug及问题，欢迎提交ISSUES：https://github.com/osalien/coding-lab/issues\n");
 //        tip.append(" 8.QQ：625301326，进群答案：springboot.plus\n");
         tip.append("                                                                                  \n");
         tip.append("===========================================================================================\n");

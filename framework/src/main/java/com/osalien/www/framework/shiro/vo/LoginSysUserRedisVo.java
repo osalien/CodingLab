@@ -1,5 +1,5 @@
 /*
- * Copyright 2019-2029 geekidea(https://github.com/geekidea)
+ * Copyright 2019-2029 osalien(https://github.com/osalien)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -24,7 +24,7 @@ import lombok.experimental.Accessors;
 /**
  * 登录用户Redis对象，后台使用
  *
- * @author geekidea
+ * @author osalien
  * @date 2019-9-30
  **/
 @Data
