@@ -31,9 +31,9 @@ public class HelloScheduled {
     /**
      * 每小时执行一次
      */
-    @Scheduled(cron = "0 0 0/1 * * ? ")
-    public void hello() throws Exception {
-        log.debug("HelloScheduled...");
-    }
+//    @Scheduled(cron = "0 0 0/1 * * ? ")
+//    public void hello() throws Exception {
+//        log.debug("HelloScheduled...");
+//    }
 
 }
