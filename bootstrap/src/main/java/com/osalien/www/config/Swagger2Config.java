@@ -157,7 +157,7 @@ public class Swagger2Config {
         if (StringUtils.isBlank(basePackage)) {
             throw new SpringBootPlusConfigException("Swagger basePackage不能为空");
         }
-        String[] basePackages = null;
+        String[] basePackages = new String[]{basePackage};
         if (basePackage.contains(SPLIT_COMMA)) {
             basePackages = basePackage.split(SPLIT_COMMA);
         } else if (basePackage.contains(SPLIT_SEMICOLON)) {
